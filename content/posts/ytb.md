@@ -1,7 +1,7 @@
 ---
-title: Loic Prigent - Le Maître de l'Infiltration dans l'univers des Défilés
+title: Loic Prigent - Le maître de l'infiltration dans l'univers des défilés
 date: 2023-01-10
-description: "Choisir le magazine Vogue comme source d'information pour ma veille sur le domaine de la direction artistique de la mode s'avère particulièrement judicieux."
+description: "Loïc Prigent, un journaliste français spécialisé dans le domaine de la mode, s'est distingué en créant des documentaires offrant un regard inédit sur l'industrie de la mode, ses coulisses et ses créateurs."
 ---
 
 Loïc Prigent, un journaliste français spécialisé dans le domaine de la mode, s'est distingué en créant des documentaires offrant un regard inédit sur l'industrie de la mode, ses coulisses et ses créateurs.
