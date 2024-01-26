@@ -1,5 +1,5 @@
 ---
-title: Podcast "Canapé Six Places" de Lena Situations avec Simon Porte Jacquemus
+title: Podcast Canapé Six Places de Lena Situations avec Simon Porte Jacquemus
 date: 2023-01-22
 description: "Lena Situations, une youtubeuse, influenceuse et autrice française, a récemment élargi sa présence médiatique en lançant son podcast intitulé "Canapé 6 Places". Dans ce podcast, elle invite des personnalités de divers horizons pour des échanges captivants, en complément de son contenu visuel sur les réseaux sociaux."
 ---
