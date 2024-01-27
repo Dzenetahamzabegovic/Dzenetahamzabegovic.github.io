@@ -7,7 +7,7 @@ image: images/look.jpg
 
 Afin de rester aligné sur les évolutions constantes du domaine de la direction artistique, il est crucial de scruter de près les émetteurs tels que les personnalités du secteur, les influenceurs et les entreprises phares, ainsi que de suivre attentivement les canaux pertinents tels que les réseaux sociaux, les blogs/magazines, les podcasts, les newsletters et les événements associés à ce domaine spécifique.
 
-## Personnalité du domaine
+## Personnalités du domaine
 
 ### Anna Wintour
 
@@ -65,11 +65,19 @@ Le magazine emblématique [Vogue](https://www.vogue.com/), au rayonnement mondia
 
 En tant que plateforme d'information sur l'industrie de la mode, [BoF](https://www.businessoffashion.com/) fournit des analyses approfondies, des rapports sur les tendances et des entretiens avec des leaders d'opinion, guidant ainsi les professionnels du secteur.
 
+### Harper's Bazaar
+
+Harper's Bazaar se distingue par ses articles approfondis et ses interviews approfondies avec des créatifs renommés. Ce magazine offre une plongée en profondeur dans les coulisses de l'industrie de la mode, explorant les processus créatifs, les inspirations des artistes, et les histoires derrière les œuvres.
+
 ## Newsletters
 
 ### Vogue Business Newsletter
 
 La newsletter de [Vogue Business](https://www.voguebusiness.com/newsletter/voguebusiness#:~:text=Sign%20up%20to%20our%20newsletter,a%2010%25%20discount%20on%20membership.&text=Enter%20your%20email%20to%20receive,news%20alerts%20from%20Vogue%20Business) offre des mises à jour régulières sur les tendances, les données du secteur et les développements commerciaux dans l'industrie de la mode.
+
+### The Fashion Law Newsletter
+
+La newsletter "The Fashion Law" se distingue en tant que ressource incontournable pour ceux qui souhaitent rester informés sur les aspects juridiques de l'industrie de la mode.
 
 ## Évènements
 
