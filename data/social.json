@@ -3,13 +3,8 @@
    
     {
       "name": "github",
-      "url": "https://github.com/zerostaticthemes/hugo-winston-theme",
+      "url": "https://github.com/Dzenetahamzabegovic/Dzenetahamzabegovic.github.io",
       "image": "images/social/github.svg"
-    },
-    {
-      "name": "linkedin",
-      "url": "https://www.linkedin.com",
-      "image": "images/social/linkedin.svg"
     }
   ]
 }

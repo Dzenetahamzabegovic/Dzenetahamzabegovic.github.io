@@ -20,7 +20,7 @@ Créativite et imprégné d'une imagination débordanteet, je suis constamment �
 
 ### Mon domaine de prédilection
 
-Grâce à l'ikigai que j'ai eu la chance de réaliser lors du cours de veille technologique à la HEIG-VD, j'ai pu confirmer ma passion pour la direction artistique. Ce domaine stimulant englobe divers sous-domaines tels que la direction artistique dans la mode, la conception visuelle, la création de concepts artistiques, et bien d'autres encore.
+Grâce à l'ikigai que j'ai eu la chance de réaliser lors du cours de veille technologique à la HEIG-VD, j'ai pu confirmer ma passion pour la direction artistique. Ce domaine dynamique englobe une variété de sous-domaines passionnants, parmi lesquels on trouve la direction artistique dans la mode, les campagnes publicitaires, les campagnes éditoriales, le cinéma, la télévision et même le design d'intérieur.
 
 Une fois mes études terminées, j'ambitionne donc de me spécialiser principalement dans la direction artistique, avec un intérêt particulier pour l'industrie de la mode.
 

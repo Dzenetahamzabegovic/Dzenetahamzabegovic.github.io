@@ -65,10 +65,6 @@ Le magazine emblématique [Vogue](https://www.vogue.com/), au rayonnement mondia
 
 En tant que plateforme d'information sur l'industrie de la mode, [BoF](https://www.businessoffashion.com/) fournit des analyses approfondies, des rapports sur les tendances et des entretiens avec des leaders d'opinion, guidant ainsi les professionnels du secteur.
 
-### Harper's Bazaar
-
-Harper's Bazaar se distingue par ses articles approfondis et ses interviews approfondies avec des créatifs renommés. Ce magazine offre une plongée en profondeur dans les coulisses de l'industrie de la mode, explorant les processus créatifs, les inspirations des artistes, et les histoires derrière les œuvres.
-
 ## Newsletters
 
 ### Vogue Business Newsletter
