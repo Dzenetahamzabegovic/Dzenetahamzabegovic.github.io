@@ -6,7 +6,7 @@ description: "Loïc Prigent, un journaliste français spécialisé dans le domai
 
 Loïc Prigent, un journaliste français spécialisé dans le domaine de la mode, s'est distingué en créant des documentaires offrant un regard inédit sur l'industrie de la mode, ses coulisses et ses créateurs.
 
-Sa renommée repose en particulier sur ses séries documentaires, telles que "Le Jour d'Avant" et "Le Jour d'Après", qui offraient un accès exclusif aux préparatifs des défilés de mode des grandes maisons de couture.
+Sa renommée repose en particulier sur ses séries documentaires, telles que "Le jour d'avant" et "Le jour d'après", qui offraient un accès exclusif aux préparatifs des défilés de mode des grandes maisons de couture.
 
 La chaîne YouTube de Loïc Prigent s'impose comme une ressource incontournable pour les directeurs artistiques de la mode. Grâce à un contenu captivant, souvent teinté d'humour et de perspicacité, cette plateforme offre un accès exclusif aux coulisses des plus grandes maisons de couture telles que Chanel, Jean-Paul Gaultier, LOEWE ou Jacquemus.
 
